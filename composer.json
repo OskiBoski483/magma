@@ -1,0 +1,17 @@
+{
+    "name": "magmamc/magma",
+    "type": "libray",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Magmamc\\Magma\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oskar Nizioł",
+            "email": "oskarniziol@gmail.com"
+        }
+    ],
+    "require": {}
+}
